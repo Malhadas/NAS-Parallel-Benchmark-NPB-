@@ -1,0 +1,2 @@
+# NAS-Parallel-Benchmark-NPB-
+This document presents a thorough study of performance analysis in supercomputers, in particular, some specific nodes of the SeARCH Cluster. For this performance analysis, the Parallel Banchmark (NPB) NAS package was used in order to correctly arrive at relevant conclusions regarding the performance of each node of the mentioned cluster and to be able to realistically compare the nodes with each other.
